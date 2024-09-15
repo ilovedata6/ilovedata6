@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there, I'm Bilal Saeed! I'm a data science enthusiast with a passion for turning raw data into actionable insights. I specialize in data scraping, cleaning, and visualization, helping organizations make smarter, data-driven decisions. With certifications from IBM and 365 Data Science, I stay updated with the latest trends in machine learning and Artificial Intelligence.
+👋 Hi there, I'm Bilal Saeed! I’m an AI and machine learning Professional with a deep passion for building intelligent systems. From data collection and preprocessing to deploying machine learning models, I thrive on solving complex problems with data. With a strong foundation in AI, I'm constantly exploring innovative ways to leverage machine learning techniques for real-world applications.
 
 
 ## 🌐 Socials:
