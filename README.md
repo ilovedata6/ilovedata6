@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there, I'm Bilal Saeed! I’m an AI and Machine Learning Professional with a deep passion for building intelligent systems. From data collection and preprocessing to deploying machine learning models, I thrive on solving complex problems with data. With a strong foundation in AI, I'm constantly exploring innovative ways to leverage machine learning techniques for real-world applications.
+ 👋 Hi there, I'm Bilal Saeed! I’m an AI and Machine Learning Professional with a deep passion for building intelligent systems. From data collection and preprocessing to deploying machine learning models, I thrive on solving complex problems with data. With a strong foundation in AI, I'm constantly exploring innovative ways to leverage machine learning techniques for real-world applications.
 
 
 ## 🌐 Socials:
